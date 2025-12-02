@@ -1,0 +1,62 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# SwiftPM
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# SPM Artifacts
+.artifacts/
+
+# User-specific files
+*.swp
+*.swo
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xccheckout
+
+# Simulator logs
+*/Library/Logs/CoreSimulator/*
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# SwiftLint cache
+.swiftlint.cache
+
+# Xcode-generated docs
+*.doccarchive
+
+# Archive files
+*.xcarchive
+
+# Temporary
+*.tmp
+*.temp
