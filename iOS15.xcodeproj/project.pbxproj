@@ -175,6 +175,7 @@
 		420341962DE6030C0031D1DC /* AppAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppAction.swift; sourceTree = "<group>"; };
 		425892692DE60B070075E4E6 /* AppEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvironment.swift; sourceTree = "<group>"; };
 		42C54E982EDF9951007F8DDB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		42C54E992EDFB479007F8DDB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		42FD0B592DE630AF002BF260 /* ExploreState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreState.swift; sourceTree = "<group>"; };
 		42FD0B5C2DE630B4002BF260 /* ExploreAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreAction.swift; sourceTree = "<group>"; };
 		42FD0B5F2DE630B9002BF260 /* ExploreEnvironment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreEnvironment.swift; sourceTree = "<group>"; };
@@ -351,6 +352,7 @@
 		967ED6B8267A767C005B2358 = {
 			isa = PBXGroup;
 			children = (
+				42C54E992EDFB479007F8DDB /* README.md */,
 				42C54E982EDF9951007F8DDB /* .gitignore */,
 				967ED6BD267A767C005B2358 /* Shared */,
 				967ED6D3267A767D005B2358 /* Tests iOS */,
